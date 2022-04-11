@@ -13,7 +13,6 @@ export default function AbsoluteImports() {
       <main>
         This uses an absolute import:{' '}
         <MyComponent>Im absolutely imported</MyComponent>
-        test
       </main>
     </div>
   )
