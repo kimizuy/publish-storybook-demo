@@ -10,9 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <h1>
-          Click on any one of these links to see supported features in action
-        </h1>
+        <h1>Awesome Title!</h1>
         <Links />
       </main>
     </div>
