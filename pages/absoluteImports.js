@@ -3,6 +3,7 @@ import { MyComponent } from 'components/MyComponent'
 import Head from 'next/head'
 
 export default function AbsoluteImports() {
+  console.log('test!')
   return (
     <div>
       <Head>
